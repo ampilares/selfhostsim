@@ -1,0 +1,30 @@
+{
+  "name": "selfhostsim-ghl",
+  "version": "1.0.0",
+  "description": "Use HighLevel SDK to connect to GHL app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "highlevel",
+    "webhook",
+    "mongo",
+    "sdk"
+  ],
+  "author": "SelfhostSim Dev",
+  "license": "ISC",
+  "dependencies": {
+    "@gohighlevel/api-client": "^1.0.0",
+    "axios": "^1.11.0",
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "loadsh": "^0.0.4",
+    "lodash": "^4.17.21",
+    "pug": "^3.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0"
+  }
+}
