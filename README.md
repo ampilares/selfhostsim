@@ -251,4 +251,4 @@ ghl.example.com {
 Email `contact@selfhostsim.com`, or join the community:
 
 - Facebook group: https://www.facebook.com/groups/1259384756114438
-- Subreddit: http://reddit.com/r/selfhostsim/
+- Subreddit: https://reddit.com/r/selfhostsim/
