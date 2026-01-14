@@ -312,7 +312,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="REQUIRED for selfhostsim to function!"
+                            android:text="REQUIRED for SMS Gateway to function!"
                             android:textColor="@android:color/holo_red_dark"
                             android:textSize="14sp"
                             android:textStyle="bold"
