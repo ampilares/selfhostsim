@@ -3,6 +3,7 @@
 SelfhostSim is an open-source SMS gateway that lets you send/receive SMS in GoHighLevel using your **own Android phone(s)** (real SIM cards) while self-hosting the backend infrastructure.
 
 **Tech stack:** Android (Java) • Node.js (NestJS + Express) • MongoDB • Redis • Firebase Cloud Messaging (FCM)
+**Official Installation Guide:** https://selfhostsim.com/docs
 
 ## What you get
 
